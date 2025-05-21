@@ -67,7 +67,6 @@ Here’s a preview of the DataFrame shown in the notebook:
 
 ![Hockey Table Output](images/hockey_table_output.png)
 
-## ✅ Sample Output
 
 The data was exported to a file called `Hockey.csv`. Here's what a preview of the final table looks like:
 
