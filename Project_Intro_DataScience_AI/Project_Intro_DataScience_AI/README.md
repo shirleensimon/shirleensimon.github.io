@@ -59,10 +59,13 @@ The notebook walks through the process of:
 [🔗 Open in Google Colab](https://colab.research.google.com/drive/1BmNb2KZI6T0M_5n6b3ZweDBukuraUCby?usp=sharing)
 
 ---
-
 ## ✅ Sample Output
 
-After scraping and cleaning the data from [ScrapeThisSite](https://scrapethissite.com/pages/forms/), the final output is a structured table containing hockey team statistics.
+After scraping and cleaning the data from [ScrapeThisSite](https://scrapethissite.com/pages/forms/), the final output is a structured table of hockey team statistics.
+
+Here’s a preview of the DataFrame shown in the notebook:
+
+![Hockey Table Output](images/hockey_table_output.png)
 
 The data was exported to a file called `Hockey.csv`. Here's what a preview of the final table looks like:
 
