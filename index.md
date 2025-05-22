@@ -1,16 +1,14 @@
-# 👋 Hi, I'm Shirleen Simon
+# 👋 Welcome to My Data Science Portfolio
 
-Welcome to my Data Science Portfolio!
-
-I’m a data enthusiast and learner under the Cyber Shujaa program, exploring data-driven insights through Python, machine learning, and AI tools.
+I'm Shirleen Simon — a data science learner in the Cyber Shujaa program. This is my GitHub Pages portfolio.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 🏒 Web Scraping Hockey Stats
-Scraped and cleaned sports data using Python, BeautifulSoup & pandas.  
-🔗 [View Project](./Project_Intro_DataScience_AI/README.md)
+A project that scrapes and cleans hockey team stats using Python, BeautifulSoup, and pandas.  
+🔗 [View Project](./Project_Intro_DataScience_AI/)
 
 ---
 
