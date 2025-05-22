@@ -11,7 +11,7 @@ I'm a data science enthusiast with a passion for extracting insights from data a
 
 ### 🏒 NHL Hockey Stats Analysis
 Explore my analysis of NHL hockey player statistics — from data cleaning to visualization.  
-🔗 [View Project on GitHub](https://github.com/shirleensimon/NHL-Hockey-Stats)
+🔗 [View Project on GitHub](https://github.com/shirleensimon/shirleensimon.github.io/tree/main/Project_Intro_DataScience_AI/Project_Intro_DataScience_AI))
 
 ## 📫 Let's Connect
 - [GitHub](https://github.com/shirleensimon)
