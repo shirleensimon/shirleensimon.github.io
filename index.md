@@ -13,6 +13,12 @@ I'm a data science enthusiast with a passion for extracting insights from data a
 Explore my analysis of NHL hockey player statistics — from data cleaning to visualization.  
 🔗 🔗 [View Project](./hockey_project/)
 
+### Netflix Data Wrangling Project
+
+- **Description:** Data cleaning and exploration of Netflix Movies and TV Shows dataset using Python and Pandas.
+- **Tools:** Python, Pandas, Jupyter Notebook
+- **GitHub Repo:** [Data Wrangling Netflix Project](https://github.com/shirleensimon/Data-wrangling-netflix-ssimon)
+- **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/shirleensimon/netflix-shirleen)
 
 
 ## 📫 Let's Connect
