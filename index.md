@@ -41,6 +41,7 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
 
 
 
+
 ## Resume
 
 Check out my [Resume page](./resume.html) to learn more about my background, skills, and experience.
