@@ -28,6 +28,9 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
 
 
 
+## Resume
+You can view my detailed resume here:  
+[Shirleen Simon Resume](https://github.com/shirleensimon/ssimon)
 
 
 
