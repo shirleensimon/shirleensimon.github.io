@@ -13,7 +13,7 @@ I'm a data science enthusiast with a passion for extracting insights from data a
 Explore my analysis of NHL hockey player statistics — from data cleaning to visualization.  
 🔗 🔗 [View Project](./hockey_project/)
 
-<!-- 🎬 Netflix Data Wrangling Project -->
+### 🎬 Netflix Data Wrangling Project
 <div class="project-card">
   <h3>🎬 Netflix Data Wrangling Project</h3>
   <p>
