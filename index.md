@@ -26,10 +26,20 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
   </ul>
 </div>
 
-<li>
-  🛳️ Titanic EDA Project  
-  🔗 <a href="https://github.com/shirleensimon/Titanic-EDA-Shirleen">View Project</a>
-</li>
+<!-- 🛳️ Titanic Dataset EDA Project -->
+<div class="project-card">
+  <h3>🛳️ Titanic Dataset EDA Project</h3>
+  <p>
+    A comprehensive exploratory data analysis of the Titanic dataset from Kaggle to uncover survival patterns and key influencing features.
+  </p>
+  <ul>
+    <li><strong>Tools:</strong> Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook</li>
+    <li><a href="https://github.com/shirleensimon/Titanic-EDA-Shirleen" target="_blank">📁 View GitHub Repository</a></li>
+    <li><a href="https://www.kaggle.com/code/shirleensimon/titanic-dataset-eda-project-shirleen" target="_blank">🔗 View Kaggle Notebook</a></li>
+    <li><a href="https://shirleensimon.github.io/Titanic-EDA-Shirleen/Shirleen_Simon_EDA.pdf" target="_blank">📄 View PDF Summary</a></li>
+  </ul>
+</div>
+
 
 
 ## Resume
