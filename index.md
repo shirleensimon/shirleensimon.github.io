@@ -34,6 +34,7 @@ You can view my detailed resume here:
 
 
 
+
 ## 📫 Let's Connect
 - [GitHub](https://github.com/shirleensimon)
 - [LinkedIn](https://www.linkedin.com/in/shirleen-nanetia-simon-ab6808114)
