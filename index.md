@@ -26,6 +26,10 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
   </ul>
 </div>
 
+<li>
+  🛳️ Titanic EDA Project  
+  🔗 <a href="https://github.com/shirleensimon/Titanic-EDA-Shirleen">View Project</a>
+</li>
 
 
 ## Resume
