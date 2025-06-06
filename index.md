@@ -30,6 +30,7 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
 
 
 
+
 ## 📫 Let's Connect
 - [GitHub](https://github.com/shirleensimon)
 - [LinkedIn](https://www.linkedin.com/in/shirleen-nanetia-simon-ab6808114)
