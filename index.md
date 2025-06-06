@@ -23,7 +23,6 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
     <li><strong>Tools:</strong> Python, Pandas, Jupyter Notebook</li>
     <li><a href="https://github.com/shirleensimon/Data-wrangling-netflix-ssimon" target="_blank">📁 View GitHub Repository</a></li>
     <li><a href="https://www.kaggle.com/code/shirleensimon/netflix-shirleen" target="_blank">🔗 View Kaggle Notebook</a></li>
-    <li><a href="./netflix_project/">🔗 View Project</a></li>
   </ul>
 </div>
 
