@@ -39,6 +39,14 @@ Explore my analysis of NHL hockey player statistics — from data cleaning to vi
   </ul>
 </div>
 
+## 🏨 Power BI Hotel Management Analysis
+
+This is an end-to-end business intelligence project built in Power BI to analyze hotel booking, revenue, and occupancy data.
+
+🔗 [View Full Report (SharePoint)](https://gtbank-my.sharepoint.com/:u:/p/shirleen_simon/ERhi5ZQUAR1JlcLiMhlu2bkBqXm8aRxVKpRVU959sUYw2w?e=TYEZRc)  
+📁 [GitHub Repository](https://github.com/shirleensimon/powerbi-hotel-analysis)
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/shirleensimon/powerbi-hotel-analysis/main/images/dashboard.png)
 
 
 
