@@ -46,6 +46,13 @@ This is an end-to-end business intelligence project built in Power BI to analyze
 🔗 [View Full Report (SharePoint)](https://gtbank-my.sharepoint.com/:u:/p/shirleen_simon/ERhi5ZQUAR1JlcLiMhlu2bkBqXm8aRxVKpRVU959sUYw2w?e=TYEZRc)  
 📁 [GitHub Repository](https://github.com/shirleensimon/powerbi-hotel-analysis)
 
+## 📊 HR Insights Tableau Project
+
+Explore my interactive HR dashboard created using Tableau. This project analyzes employee demographics, income levels, and departmental insights to support HR decision-making.
+
+- 📁 [Download Tableau Workbook](https://github.com/shirleensimon/tableau-hr-insights/raw/main/Hr%20insights%20tableau.twb)
+- 📄 [View Project Report](https://github.com/shirleensimon/tableau-hr-insights/raw/main/Shirleen_Simon_Data_Tableau.docx)
+- 🔗 [View GitHub Repository](https://github.com/shirleensimon/tableau-hr-insights)
 
 
 
