@@ -4,6 +4,6 @@ description: >-
 baseurl: ""
 url: "https://shirleensimon.github.io"
 theme: jekyll-theme-minimal
-logo: /assets/img/profile.jpg  # optional
+logo: /assets/profile.jpg  # optional
 github:
   is_project_page: false
